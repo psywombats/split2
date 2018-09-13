@@ -1,0 +1,70 @@
+Graphics:
+Site Name: White Screw Store
+Address: http: //hi79.web.fc2.com/
+(They require the address to be shown in a credits list.)
+
+I've added all the content of their site in the game, so there shouldn't be a problem finding stuff to use, graphics-wise. At least for the setting as-is. There's also a bunch of tiles for making your own tilesets in the folder called "Extras". A lot of decoration tiles can be found on charactersets. It's a pain but at least there's some cool stuff there and gets around the tileset limits. 
+
+
+Music:
+Eric Matyas
+http://soundimage.org/
+(Require name in credits. If only his music then only need to put
+"Music by Eric Matyas
+http://soundimage.org/"
+
+Else, need to add list of his songs in a list as well as his name and link of site.
+- Castle Lost
+- Impossible Decision
+- Isolation
+- Kingdom of Darkness
+- Realization
+- The Runaway
+- Young Mind)
+
+His site has tons of music and sound effects, if you need any other stuff! Like, literally over 1500 songs/sound effects.
+
+I also recommend checking out Bensounds for some more funky tracks or the RMN Music pack for more traditional RPG tracks. Adrian von Zweigler on youtube is another good resource. 
+
+
+
+GAME STUFF
+
+TINT: The purple tint is 
+R 110
+G 080
+B 130
+S 010
+
+Faces currently are Pri shown on left, facing right. NPCs shown on right, facing left.
+
+Game finishes at point where you open the front door. On account of being sick I didn't manage to finish as much as I wanted to - the last few days were spent trying to get better orz. If you want to change up the key finding/add more puzzles/lore/etc feel free. Sorry the switches and shit aren't amazingly handled. >.<
+
+
+STORY
+
+The general idea is that Pri is a princess who gets kidnapped all the damn time, no matter what she tries. She's also blamed for her abductions fairly often by her father, King Eddlegard, and body guard, Andra. It doesn't help that her father doesn't hire decent soldiers or that she doesn't get along well wiht her body guard who is overworked and often takes her frustrations out on Pri.
+
+When yet another abduction occurs - this time from her own room in the centre of the castle itself, after another fight with Andra - Pri is well and truly fed up. Her annoyance only gets worse when she realises that whoever has taken her appears to be a pervert of the largest degree and decides that she's had enough.
+
+Not only is she going to rescue herself, again, but this time she's going to do the only thing she can do - kidnap herself!
+
+Of course, first she has to get out of the clutches of her current abductees, but that shouldn't be too hard, right? ;p
+
+
+CHARACTERS
+
+Pri - princess who keeps getting kidnapped. She's sick and tired of this shit and well-over being blamed for getting into situations where her protection is less than optimal. She doesn't get along well with Andra, thinks her father is a bit of an idiot for never upgrading his defences and hopes to one day take over the throne and run the country properly. First she needs to get through to every kidnapper in the vicinity that she is not going to take this shit laying down and if she needs to burn down a secret hideout or two to get the point across... well, she may be a practitioner of water magic but that doesn't mean she can't set shit aflame.
+
+Andra - the overworked body guard who was hired to protect the precious princess Pri after her fourteenth birthday party ended in a kidnapping. Something about being of age to be married (or near enough in some perverts' books) has made the kidnappers come out of the woodworks and since that day Andra has been working tirelessly to look after a willful and grumpy princess who doesn't seem to like her. She'll do her job but she finds herself not able to really understand the spoiled princess very well and ends up taking her frustrations out on her more often than not. She'll keep on keeping on though, because soon Pri will take the throne and maybe she'll be given a nice cushy job or something for dealing with this shit for so many years. God, she hopes so.
+
+King Eddlegard - though he loves his willful daughter he doesn't understand her very well and just wants to see her safe. That said, he's dealing with a case of the 'olds', in that though he knows she'll be queen one day, he can't seem to parse the idea that this means she'll be in power. He just figures she'll get married off to some prince who will take over the throne in her stead (yeah, right! - Pri). That aside, he's more than a bit addled, not really a great king though he has managed to keep his kingdom reasonably peaceful. He does have an issue with trusting too much, and he's not very good at being intimidating. Thankfully no-one has seen fit to take advantage of his good nature. Maybe one day he'll hire competent guards but today is not that day.
+
+Prince Capsri - a prince who heard the precious princess Pri had been kidnapped while he was visiting the kingdom. His older brother is set to inherit the throne so he figures getting in on the ground floor of rescuing a princess in distress is a great way to nab himself a crown. He is greedy, capricious and conniving but too much of a fuck-up to really pose a threat to anyone. He offers to safe Pri in exchange for her hand in marriage, but Andra has a head start on him and Pri herself has a head start on the both of them. 
+
+- Pri wouldn't bother marrying the prince. Fuck him, the kingdom is hers and she's not handing it over to some ponce on a pony just because he tried to save her one of the many, many times she got kidnapped.
+- Andra might not understand Pri but she is a dutiful person and she will do her best to save the princess despite everything.
+- Capsri is the youngest of four brothers and thus why he wants a throne of his own. Sad for him that he set his eyes on Pri as a possible princess-to-wed. She'd eat him for breakfast.
+- Pri is fully prepared to break out on her own and make her way back to the castle. She might consider running off to live a life of adventure or something instead because fuck getting blamed for every attempted kidnapping, but she is duty-bound to protect her people and honestly, she knows she's going to come into the power to protect herself sooner rather than later so running isn't as much of an option as she'd like to pretend it is. Still... she's sorely tempted sometimes.
+
+
